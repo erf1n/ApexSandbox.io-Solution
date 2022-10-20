@@ -1,5 +1,5 @@
 public String aOrAn(String word) {
-    if (word.[0]== 'a','e','i','o','u' || 'A','E','I','O','U')
+    if (word.startsWith()== 'a','e','i','o','u' || 'A','E','I','O','U')
     {
         word.concatenate('an');
     }
