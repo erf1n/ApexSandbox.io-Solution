@@ -1,4 +1,5 @@
 public Integer diff(Integer a, Integer b) {
+    Int diff;
     if(a>b){
      diff= Math.abs(a- b);
     }
